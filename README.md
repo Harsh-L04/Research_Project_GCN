@@ -16,7 +16,7 @@ Each dataset is organized in its own folder with dedicated code, outputs, and do
 ### 🔷 [Cora Dataset](./Cora%20Dataset)
 
 This folder contains everything related to the **Cora citation network**:
-- Raw dataset files (`.cites`, `.content`)
+- Graph metrics for Cora Dataset
 - Preprocessing and graph construction scripts
 - GCN model implementation using PyTorch
 - Training logs and visualizations
@@ -25,7 +25,7 @@ This folder contains everything related to the **Cora citation network**:
 ### 🔶 [Citeseer Dataset](./Citeseer%20Dataset)
 
 This folder contains all work done on the **Citeseer dataset**:
-- Raw data files
+- Graph metrices for Citeseer Dataset
 - Node classification using GCN
 - Code structure similar to Cora for consistency
 - [README](./Citeseer%20Dataset/README.md) for specific commands and results
