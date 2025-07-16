@@ -21,7 +21,7 @@ This folder contains everything related to the **Cora citation network**:
 - Training logs and visualizations
 - [README](./Cora Dataset/README.md) with detailed explanation
 
-### 🔶 [`citeseer/`](./citeseer/)
+### 🔶 [`citeseer/`](Citeseer Dataset)
 This folder contains all work done on the **Citeseer dataset**:
 - Raw data files
 - Node classification using GCN
