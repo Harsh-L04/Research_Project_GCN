@@ -44,6 +44,31 @@ This folder contains all work done on the **Citeseer dataset**:
 Can be found here: [`report/report.pdf`](./Report.pdf)
 
 ---
+---
+
+## 🛠️ Tools & Technologies Used
+
+This project was implemented using the following tools and libraries:
+
+### 💻 Languages & Frameworks
+- **Python 3.8+**
+- **PyTorch** – Deep learning framework for building the GCN
+
+### 📚 Libraries
+- **NumPy** – Numerical computations
+- **NetworkX** – Graph construction and manipulation
+- **Scikit-learn** – Evaluation metrics and t-SNE visualization
+- **Matplotlib** – Plotting and graph visualization
+- **tqdm** – Progress bars during training
+
+### ⚙️ Development Environment
+- **Anaconda** – Python environment and package manager
+- **Conda** environment file (`environment.yml`) for reproducibility
+
+### 📁 Dataset Sources
+- **Cora** and **Citeseer** citation networks from [whizbang.com](http://www.research.whizbang.com/data)
+
+---
 
 ## ⚙️ Environment Setup
 
