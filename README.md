@@ -1,4 +1,4 @@
-# 📘 GCN_Project: Graph Convolutional Networks on Citation Datasets
+# 📘 Summer Research Project: Graph Convolutional Networks on Citation Datasets
 
 This repository explores the use of **Graph Convolutional Networks (GCNs)** for **node classification** tasks on citation networks such as **Cora** and **Citeseer**.
 
@@ -80,14 +80,3 @@ conda env create -f environment.yml
 conda activate gcn_env
 
 ---
-
-### ✅ Final Touch Checklist
-
-Make sure your repo contains:
-- `cora/README.md`
-- `citeseer/README.md`
-- `report/report.pdf`
-- `environment.yml` (optional but helpful)
-- `.gitignore` (for Python projects, include `__pycache__/`, `.ipynb_checkpoints/`, etc.)
-
-Let me know if you’d like me to help write the `README.md` for the `cora/` or `citeseer/` folders too!
